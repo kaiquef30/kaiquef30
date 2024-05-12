@@ -4,15 +4,10 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaiquef30&show_icons=true&count_private=true&hide_border=true&title_color=3b5ce1&icon_color=3b5ce1&text_color=c9d1d9&bg_color=0d1117" alt="Kaique Fernando github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquef30&layout=compact&hide_border=true&title_color=3b5ce1&text_color=3b5ce1&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaiquef30&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaiquef30&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
  
 ### Main skills:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
