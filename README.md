@@ -39,11 +39,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&labelColor=000000&logoColor=ffffff)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-000000?style=for-the-badge&logo=react&labelColor=000000&logoColor=ffffff)&nbsp;
 
-### Studying at the Moment:
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&labelColor=000000&logoColor=ffffff)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazon-aws&labelColor=000000&logoColor=ffffff)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-000000?style=for-the-badge&logo=angular&labelColor=000000&logoColor=ffffff)&nbsp;
-
 
 <!-- Anime GIF -->
 <div align="center">
