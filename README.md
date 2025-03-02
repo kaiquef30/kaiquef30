@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile;My+name+is+Kaique+Fernando;18+years;Born+in+Brazil;Software+engineer+at+Uniasselvi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile;My+name+is+Kaique+Fernando;18+years;Born+in+Brazil"/>
 </div>
 
 <!-- Stats and Languages -->
