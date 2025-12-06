@@ -8,8 +8,11 @@
 
 <!-- Stats and Languages -->
 <div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquef30&layout=compact&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=000000" />
-  <img width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=kaiquef30&theme=dark&hide_border=true" width="400">
+  <img
+    width="41%"
+    height="195px"
+    src="https://github-readme-streak-stats.herokuapp.com?user=kaiquef30&hide_border=true&background=000000&ring=4A0404&fire=9B111E&currStreakLabel=4A0404&sideLabels=4A0404&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B"
+  />
 </div>
 
 <!-- Activity Graph -->
@@ -46,7 +49,13 @@
 <!-- Anime GIF -->
 <div align="center">
   <img src="https://i.pinimg.com/originals/18/3f/b7/183fb7dc262236a6d33603cf53b3759b.gif" width="500" height="300"/>
+
+  <br><br>
+
+  <i>"He who has a why to live can bear almost any how."</i><br>
+  <sub>— Friedrich Nietzsche</sub>
 </div>
+
 
 <!-- Footer -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A0404&height=120&section=footer"/>
