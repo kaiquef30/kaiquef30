@@ -7,13 +7,6 @@
 </div>
 
 <!-- Stats and Languages -->
-<div align="center">  
-  <img
-    width="41%"
-    height="195px"
-    src="https://github-readme-streak-stats.herokuapp.com?user=kaiquef30&hide_border=true&background=000000&ring=4A0404&fire=9B111E&currStreakLabel=4A0404&sideLabels=4A0404&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B"
-  />
-</div>
 
 <!-- Activity Graph -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaiquef30&bg_color=000000&color=FF0000&line=FF4500&point=FF0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
